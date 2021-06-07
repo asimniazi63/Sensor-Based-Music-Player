@@ -1,0 +1,4 @@
+The app works as simple music player like selecting song and play, pause , previous and next songs. But the important things to keep
+in mind is that:
+1. Application is controlled by both sensor and buttons by default.
+2. Manual control is enabled when the user pauses song by clicking Pause button. If plays song again then default control is enabled.
