@@ -7,14 +7,14 @@ music player actions without even unlocking the device by the help of light sens
 
 # Some Images
 
-![1](Images/1.PNG)
-![2](Images/2.PNG)
-![3](Images/3.PNG)
-![4](Images/4.PNG)
-![5](Images/5.PNG)
-![6](Images/6.PNG)
-![7](Images/7.PNG)
-![8](Images/8.PNG)
+![1](Images/1.png)
+![2](Images/2.png)
+![3](Images/3.png)
+![4](Images/4.png)
+![5](Images/5.png)
+![6](Images/6.png)
+![7](Images/7.png)
+![8](Images/8.png)
 
 
 
